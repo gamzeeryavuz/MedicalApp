@@ -1,4 +1,4 @@
-# healthcare
+# Medical App
 
 A new Flutter project.
 
